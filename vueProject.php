@@ -12,7 +12,17 @@ cd project_dashboard
 npm install vuex@next --save => if needed
 npm install vue-router@4 => if needed
 npm install => if needed
-npm run serve => -->
+npm run serve => 
+
+
+npm run lint --fix
+open file .prettierrc and add this "endOfLine": "auto"
+
+"prettier/prettier": ["error", { "endOfLine": "off" }]
+
+
+https://stackoverflow.com/questions/53516594/why-do-i-keep-getting-delete-cr-prettier-prettier
+-->
 
 
 
