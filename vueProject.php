@@ -20,6 +20,7 @@ open file .prettierrc and add this "endOfLine": "auto"
 
 "prettier/prettier": ["error", { "endOfLine": "off" }]
 
+npm run lint -- --fix
 
 https://stackoverflow.com/questions/53516594/why-do-i-keep-getting-delete-cr-prettier-prettier
 -->

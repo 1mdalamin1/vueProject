@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h2>Tjjj kjj </h2>
+        <h2>Chart Month</h2>
     </div>
 </template>
 <script>
