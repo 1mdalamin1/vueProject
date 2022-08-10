@@ -1,23 +1,22 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <HelloWorld msg="This is an about page" />
     <TestCom />
     <DashBoard />
-    <ChartManth />
   </div>
 </template>
 <script>
 // @ is an alias to /src
 import TestCom from "@/components/TestCom.vue";
 import DashBoard from "@/components/DashBoard.vue";
-import ChartManth from "@/components/ChartManth.vue";
+import HelloWorld from "@/components/HelloWorld.vue";
 
 export default {
   name: "HomeView",
   components: {
     TestCom,
     DashBoard,
-    ChartManth
+    HelloWorld
 },
 };
 </script>
