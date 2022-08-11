@@ -80,7 +80,7 @@
                             <h2>1730</h2>
                         </div>
                         <div class="chart-menu-after-right">
-                            <img src="img/2.png" alt="">
+                            <img src="img/up.png" alt="">
                             <div class="persent">
                                 <p><span>0.8%</span></p>
                                 <p>Than last Day</p>
