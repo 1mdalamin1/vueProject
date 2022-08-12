@@ -1,9 +1,10 @@
 <template>
   <div class="about">
     <HelloWorld msg="This is an about page" />
-    <ChartDay />
+    <ChartManth />
     
     <!-- last section start now -->
+    
     <div class="row con">
       <div class="col-md-3">
         <ActiveUser msg="Most Active" />
@@ -31,15 +32,16 @@
 <script>
 // @ is an alias to /src
 import HelloWorld from "@/components/HelloWorld.vue";
-import ChartDay from "@/components/ChartDay.vue";
+import ChartManth from "@/components/ChartManth.vue";
 import ActiveUser from "@/components/ActiveUser.vue";
 
 export default {
   name: "AboutView",
   components: {
     HelloWorld,
-    ChartDay,
+    ChartManth,
     ActiveUser
-},
+  },
 };
+
 </script>

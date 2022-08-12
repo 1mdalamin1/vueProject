@@ -22,7 +22,12 @@ open file .prettierrc and add this "endOfLine": "auto"
 
 npm run lint -- --fix
 
-https://stackoverflow.com/questions/53516594/why-do-i-keep-getting-delete-cr-prettier-prettier
+https://www.chartjs.org/docs/latest/charts/line.html
+
+As your wish sir, Sorry for the late submission. kindly consider my situation. If you want another task, I will submit it on time. But request this task send me Saturday night, cause Sunday my office off day. So, I am waiting for your response. Hope to see you next meeting.
+
+
+
 -->
 
 
