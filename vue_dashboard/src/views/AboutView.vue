@@ -2,9 +2,9 @@
   <div class="about">
     <HelloWorld msg="This is an about page" />
     <ChartManth />
-    
+
     <!-- last section start now -->
-    
+
     <div class="row con">
       <div class="col-md-3">
         <ActiveUser msg="Most Active" />
@@ -26,7 +26,6 @@
       </div>
     </div>
     <!-- last section The end -->
-
   </div>
 </template>
 <script>
@@ -40,8 +39,7 @@ export default {
   components: {
     HelloWorld,
     ChartManth,
-    ActiveUser
+    ActiveUser,
   },
 };
-
 </script>

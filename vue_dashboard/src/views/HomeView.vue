@@ -25,7 +25,6 @@
       </div>
     </div>
     <!-- last section The end -->
-
   </div>
 </template>
 
@@ -40,14 +39,13 @@ export default {
   components: {
     HelloWorld,
     ChartManth,
-    ActiveUser
-},
+    ActiveUser,
+  },
 };
 </script>
 
 <style>
 .row.con {
-    margin: 20px 10px;
+  margin: 20px 10px;
 }
-
 </style>
